@@ -10,6 +10,25 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jeffcorp)
 
+<a href="https://github.com/jeffcorp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcorp&theme=light" />
+  </a>
+  <a href="https://github.com/jeffcorp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffcorp&show_icons=true&theme=light&line_height=27" alt="Ukutegbe Jeffrey's github stats"/>
+</a>
+  
+## Featured
+
+<a href="https://github.com/jeffcorp/Flutter-Clones">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffcorp&repo=Flutter-Clones&theme=light" />
+
+</a>
+
+<a href="https://github.com/jeffcorp/Kotlin-Clones">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffcorp&repo=Kotlin-Clones&theme=light" />
+</a>
+
+
 ## Connect with me at
 
 - [Twitter](https://www.twitter.com/zheeno_rocks)
