@@ -8,8 +8,6 @@
 - 📫 How to reach me: jeffukus@gmail.com
 - ⚡ Fun fact: Call me and I promise to callback
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jeffcorp)
-
 <a href="https://github.com/jeffcorp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcorp&theme=light" />
   </a>
