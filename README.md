@@ -19,22 +19,22 @@
   <strong>Some more stats</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/zheeno/zheeno" alt="visits">
+    <img src="https://badges.pufler.dev/visits/jeffcorp/jeffcorp" alt="visits">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/zheeno" alt="years">
+    <img src="https://badges.pufler.dev/years/jeffcorp" alt="years">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/zheeno" alt="repos">
+    <img src="https://badges.pufler.dev/repos/jeffcorp" alt="repos">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/zheeno" alt="commits">
+    <img src="https://badges.pufler.dev/commits/monthly/jeffcorp" alt="commits">
   </a>
 </p>
 
 
 ## Connect with me at
 
-- [Twitter](https://www.twitter.com/zheeno_rocks)
+- [Twitter](https://www.twitter.com/jukutegbe)
 - [LinkedIn](https://www.linkedin.com/in/jeffrey-ukutegbe-b9ab0b174/)
-- [Github](https://github.com/JUkutegbe)
+- [Github](https://github.com/jeffcorp)
