@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on freelance Projects
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Open-Source projects
 - 🤔 I’m looking for help with Reddis
 - 💬 Ask me about React JS & Flutter
