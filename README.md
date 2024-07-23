@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on freelance Projects
+- 🔭 I’m currently working on freelance Projects involving analysis, visualization and reporting 
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Open-Source projects
 - 🤔 I’m looking for help with SQL
 - 💬 Ask me about Python & Power BI
 - 📫 How to reach me: ellaukutegbe@gmail.com
-- ⚡ Fun fact: Data is life
+- ⚡ Fun fact: Data isn't just numbers; it's a story waiting to be told 
 
 <a href="https://github.com/nuella9827">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuella9827&theme=dark" />
@@ -35,6 +35,6 @@
 
 ## Connect with me at
 
-- [Twitter](https://www.twitter.com/jukutegbe)
-- [LinkedIn](https://www.linkedin.com/in/jeffrey-ukutegbe-b9ab0b174/)
+- [Twitter](https://www.twitter.com/_nuella_xx)
+- [LinkedIn](https://www.linkedin.com/in/emmanuella-ukutegbe-b9ab0b174/)
 - [Github](https://github.com/nuella9827)
